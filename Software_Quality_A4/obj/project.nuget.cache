@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hlvIr+RuOkoUJLECc53w7huFViS+o2AwRcfP5h+/yyvX4pEQaGPUsNOzuKDQvHAALsMzB3ztmgAcopbaKWaz2Q==",
+  "success": true,
+  "projectFilePath": "D:\\MSD\\SEM-2\\Software Quelity\\Assignment 4\\Git\\Software_Quality_A4\\Software_Quality_A4\\Software_Quality_A4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arpit Dhaduk\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Arpit Dhaduk\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Arpit Dhaduk\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Arpit Dhaduk\\.nuget\\packages\\selenium.support\\4.19.0\\selenium.support.4.19.0.nupkg.sha512",
+    "C:\\Users\\Arpit Dhaduk\\.nuget\\packages\\selenium.webdriver\\4.19.0\\selenium.webdriver.4.19.0.nupkg.sha512",
+    "C:\\Users\\Arpit Dhaduk\\.nuget\\packages\\selenium.webdriver.chromedriver\\123.0.6312.12200\\selenium.webdriver.chromedriver.123.0.6312.12200.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+D:\MSD\SEM-2\Software Quelity\Assignment 4\Git\Software_Quality_A4\Test\obj\Debug\net8.0\Test.csproj.AssemblyReference.cache
+D:\MSD\SEM-2\Software Quelity\Assignment 4\Git\Software_Quality_A4\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSD\SEM-2\Software Quelity\Assignment 4\Git\Software_Quality_A4\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+D:\MSD\SEM-2\Software Quelity\Assignment 4\Git\Software_Quality_A4\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+D:\MSD\SEM-2\Software Quelity\Assignment 4\Git\Software_Quality_A4\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
